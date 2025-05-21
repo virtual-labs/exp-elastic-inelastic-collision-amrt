@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following statements is true in the case of inelastic collision?",
+      "answers": {
+        "a": "Only linear momentum is conserved",
+        "b": "Only KE is conserved",
+        "c": "Both linear momentum and KE are conserved",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Coefficient of restitution for a perfectly elastic collision is",
+      "answers": {
+        "a": "equal to zero",
+        "b": "equal to one",
+        "c": "between zero and one",
+        "d": "greater than one"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
