@@ -2,7 +2,7 @@
 ### What is Collision?
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 450px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 
 The abrupt change in path of a moving body (or bodies) due to its interaction with other body (or bodies) is called collision. The magnitude and direction of the velocity of the colliding bodies may change in a collision. The force involved in collision acts only for a very short period of time. We come across many examples of collision daily. The coins of a carom game colliding with one another or collision between vehicles in road etc, are examples of collision. The Conservation Laws applied here are;
