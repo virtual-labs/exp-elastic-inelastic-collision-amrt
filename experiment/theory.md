@@ -74,4 +74,4 @@ $$V_{1}'=\frac{M_{1}-eM_{2}}{M_{1}+M_{2}}V_{1}+\frac{(1+e)M_{2}}{M_{1}+M_{2}}V_{
 
 $$V_{1}'=\frac{(1+e)M_{1}}{M_{1}+M_{2}}V_{1}+\frac{M_{2}-eM_{1}}{M_{1}+M_{2}}V_{2}$$
 
-
+These two equations give the same results as obtained for the elastic collision if e=1 and for the inelastic collision if e=0.
