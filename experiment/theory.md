@@ -30,6 +30,48 @@ $$M_{1}V_{1}+M_{2}V_{2}=M_{1}V_{1}'+M_{2}V_{2}'$$
 
 $$KE_{1}+KE_{2}=KE_{1}'+KE_{2}'$$
 
+$$or$$
+
 $$\frac{1}{2}M_{1}V_{1}^{2}+\frac{1}{2}M_{2}V_{2}^{2}=\frac{1}{2}M_{1}(V_{1}')^{2}+\frac{1}{2}M_{2}(V_{2}')^{2}$$
+
+$$V_{1}'=\frac{M_{1}-M_{2}}{M_{1}+M_{2}}V_{1}+\frac{2M_{2}}{M_{1}+M_{2}}V_{2}$$
+
+And
+$$V_{2}'=\frac{2M_{1}}{M_{1}+M_{2}}V_{1}+\frac{M_{2}-M_{1}}{M_{1}+M_{2}}V_{2}$$
+
+If $M_{1}=M_{2}$ then $V_{1}'=V_{2}$ and $V_{2}'=V_{1}$
+
+If the second object had a velocity $V_{2} =0$ before the collision the equations become;
+
+$$V_{1}'=\frac{M_{1}-M_{2}}{M_{1}+M_{2}}V_{1}$$
+
+And
+$$V_{2}'=\frac{2M_{1}}{M_{1}+M_{2}}V_{1}$$
+
+If the objects stick together after the collision the collision is a **perfectly inelastic collision**. In such a collision the velocities of the two objects after the collision are the same. Only **momentum is conserved** in the inelastic collision, but kinetic energy is not.
+
+Conservation of Momentum:
+
+$$p_{1}+p_{2}=p_{1}'+p_{2}'$$
+
+Or
+
+$$M_{1}V_{1}+M_{2}V_{2}=M_{1}V_{1}'+M_{2}V_{2}'$$
+
+
+<p style="TEXT-ALIGN: left">Since V<sub>2</sub> = 0 and V'<sub>1</sub> = V'<sub>2</sub> the above solved for the velocities after the collision becomes;</p>
+
+$$V_{1}'=V_{2}'=\frac{M_{1}V_{1}+M_{2}V_{2}}{M_{1}+M_{2}}$$
+
+Another approach is to combine elastic and inelastic collisions equations into one equation using the concept of the coefficient of restitution. The coefficient of restitution is defined by the relation;
+
+$$e=\frac{V_{2}'-V_{1}'}{V_{1}-V_{2}}$$
+
+
+Where the coefficient of restitution for a perfectly elastic collision is e = 1 and for a perfectly inelastic collision is e = 0. The equation for the velocities after the collision becomes;
+
+$$V_{1}'=\frac{M_{1}-eM_{2}}{M_{1}+M_{2}}V_{1}+\frac{(1+e)M_{2}}{M_{1}+M_{2}}V_{2}$$
+
+$$V_{1}'=\frac{(1+e)M_{1}}{M_{1}+M_{2}}V_{1}+\frac{M_{2}-eM_{1}}{M_{1}+M_{2}}V_{2}$$
 
 
