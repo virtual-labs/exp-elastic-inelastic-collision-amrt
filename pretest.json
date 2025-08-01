@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following statements is true in the case of inelastic collision?",
+      "answers": {
+        "a": "Only linear momentum is conserved",
+        "b": "Only KE is conserved",
+        "c": "Both linear momentum and KE are conserved",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Coefficient of restitution for a perfectly elastic collision is",
+      "answers": {
+        "a": "equal to zero",
+        "b": "equal to one",
+        "c": "between zero and one",
+        "d": "greater than one"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the unit of impulse?",
+      "answers": {
+        "a": "N s",
+        "b": "kg m/s",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When two bodies stick together after collision, the collision is said to be;",
+      "answers": {
+        "a": "Perfectly elastic",
+        "b": "Perfectly inelastic",
+        "c": "Partially inelastic",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The collision between the gas molecules of an ideal gas in a cylinder is",
+      "answers": {
+        "a": "Perfectly elastic",
+        "b": "Perfectly inelastic",
+        "c": "Partially inelastic",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
